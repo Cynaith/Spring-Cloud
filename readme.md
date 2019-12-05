@@ -27,8 +27,9 @@
 注解:
 含义:
 注:
-|:-: |
+ |:-: | :-: | :-:|
 |@EnableEurekaServer|启用Eureka服务端|
 |@EnableEurekaClient|如注册中心为Eureka,则推荐|
 |@EnableDiscoveryClient|注解中含有@EnableEurekaClient功能|
+
 ---
