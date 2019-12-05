@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka-Server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka-User" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka-User-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka-User-Service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hystrix-Dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Zuul" charset="UTF-8" />
+  </component>
+</project>

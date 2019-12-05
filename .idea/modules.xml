@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" filepath="$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-User/Eureka-User.iml" filepath="$PROJECT_DIR$/Eureka-User/Eureka-User.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-User-2/Eureka-User-2.iml" filepath="$PROJECT_DIR$/Eureka-User-2/Eureka-User-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-User-Service/Eureka-User-Service.iml" filepath="$PROJECT_DIR$/Eureka-User-Service/Eureka-User-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zuul/Zuul.iml" filepath="$PROJECT_DIR$/Zuul/Zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iMart.iml" filepath="$PROJECT_DIR$/.idea/iMart.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Zuul" />
+        <module name="Eureka-User-Service" />
+        <module name="Eureka-Server" />
+        <module name="Eureka-User" />
+        <module name="iMart" />
+        <module name="Eureka-User-2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Eureka-Server" target="1.5" />
+      <module name="Eureka-User" target="1.5" />
+      <module name="Eureka-User-2" target="1.5" />
+      <module name="Eureka-User-Service" target="1.5" />
+      <module name="Hystrix-Dashboard" target="1.8" />
+      <module name="iMart" target="1.8" />
+      <module name="Zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Eureka-Server" options="-parameters" />
+      <module name="Eureka-User" options="-parameters" />
+      <module name="Eureka-User-2" options="-parameters" />
+      <module name="Eureka-User-Service" options="-parameters" />
+      <module name="Hystrix-Dashboard" options="-parameters" />
+      <module name="Zuul" options="-parameters" />
+      <module name="iMart" options="-parameters" />
+    </option>
+  </component>
+</project>

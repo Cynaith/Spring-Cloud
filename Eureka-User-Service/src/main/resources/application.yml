@@ -1,0 +1,16 @@
+eureka:
+  instance:
+    instance-id: ${spring.application.name}:${server.port}:${spring.application.instance_id:${random.value}}
+  client:
+    serviceUrl: #注册中心的注册地址
+      defaultZone: http://127.0.0.1:8761/eureka/
+server:
+  port: 8091  #服务端口号
+spring:
+  application:
+    name: user-service #服务名称--调用的时候根据名称来调用该服务的方法
+
+feign:
+  hystrix:
+    enabled: true
+
